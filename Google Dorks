@@ -1,0 +1,12 @@
+site:*.gov.ng intext:"hacked by"
+intitle:"hacked by" nigeria
+intitle:"Hacked By Hyp3r-D4rk" nigeria
+site:*.edu.ng intext:"hacked by"
+site:*.ng intitle:"index of"
+site:*.edu.ng intitle:GitLab
+site:*.ng intitle:"Index of /uploads"
+site:*.ng intitle:"index of" "shell.php"
+site:*.ng index of "backup.zip"
+site:*.ng intitle:index of intext:/backup/
+site:*.ng intext:"laravel.log"
+"t.me/joinchat" "carding"
