@@ -10,5 +10,6 @@ site:*.ng intitle:"Index of /uploads"
 site:*.ng intitle:"index of" "shell.php"
 site:*.ng index of "backup.zip"
 site:*.ng intitle:index of intext:/backup/
+site:*.ng intitle:"Index of /backup"
 site:*.ng intext:"laravel.log"
 "t.me/joinchat" "carding"
